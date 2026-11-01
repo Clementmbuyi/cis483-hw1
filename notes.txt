@@ -1,0 +1,4 @@
+CIS 483 - Homework 1 Notes
+- Created this folder and files using only the terminal.
+- Used git init to start tracking the project.
+- Each commit saves a snapshot of my changes.
